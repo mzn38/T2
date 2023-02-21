@@ -1453,6 +1453,24 @@ h1 {
 .accordion .card-body {
   padding-left: 56px;
 }
+#accordion h5{
+  font-size: 28px;
+  font-weight: 400;
+}
+#accordion h3{
+  background-color:#0099ff;
+  font-size:30px;
+  font-weight: 400;
+}
+#accordion2 h5{
+  font-size: 28px;
+  font-weight: 400;
+}
+#accordion2 h3{
+  background-color:  #0099ff;
+  font-size:30px;
+  font-weight: 400;
+}
 
 /* Inforamation Bar */
 #information-bar {
@@ -2741,7 +2759,6 @@ section#faq {
   background: #000;
 }
 .schedule .nav-tabs .nav-link,
-div#headingOne,
 div#headingOne1,
 div#headingOne3 {
   background: #1c1c1c;
@@ -2767,6 +2784,9 @@ h3 {
 }
 .schedule .item-text h5 {
   color: aliceblue;
+}
+.item-text h3{
+  font-size: 28px;
 }
 .schedule .schedule-tab-content .tab-content,
 #contact-text .contact-wrapper {

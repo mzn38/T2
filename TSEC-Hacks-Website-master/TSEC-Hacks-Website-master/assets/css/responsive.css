@@ -223,6 +223,9 @@
     min-width: 5rem;
     padding: 18px 20px;
   }
+  .item-text h3{
+    font-size: 24px;
+  }
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
