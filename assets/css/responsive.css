@@ -226,6 +226,9 @@
   .item-text h3{
     font-size: 24px;
   }
+  #accordion h5{
+    font-size: 22px;
+  }
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
